@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## password-generator
 Assignment 3, Password Generator
 
@@ -23,8 +22,3 @@ https://c1am.github.io/password-generator/
 The following link points to the GitHub repository that the Password Generator application is stored at:
 
 https://github.com/c1am/password-generator
-=======
-# password-generator
-
-Still working on assignment.
->>>>>>> 837b9232dae543fda19a1aafa1004cd818d8f97a
