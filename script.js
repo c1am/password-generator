@@ -44,7 +44,7 @@ function getUserOptions() {
    if (!lowerCaseChosen &&
       !upperCaseChosen &&
       !numberChosen &&
-      !specialChosen) {
+      !spCharacterChosen) {
          alert ("Please select at least one character type.")
       }
 
